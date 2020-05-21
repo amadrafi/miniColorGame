@@ -1,0 +1,100 @@
+
+/* Elements */
+body {
+  background : darkslategrey;
+  font-family: 'Roboto Condensed', serif;
+  text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
+}
+
+button {
+  background: black;
+  border: 0px;
+  letter-spacing: 1.5px;
+  font-weight: 700;
+  padding: 3px 0px;
+  margin: 0px 2%;
+  color: white;
+}
+p {
+  background: black;
+  border: 0px;
+  letter-spacing: 1.5px;
+  font-weight: 700;
+  padding: 3px 0px;
+  margin: 0px 2%;
+  color: white;
+}
+
+
+/* ID's */
+#reset {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  font-size: 22px;
+}
+
+#easy {
+  margin-right: 25%;
+}
+
+#safeTimerDisplay {
+    margin-left: 25%;
+    margin-right: 25%;
+    justify-content: center;
+    font-size: 26px;
+}
+
+#timer {
+  text-align: center;
+}
+/* Classes */
+.header {
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 1px;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+
+.game-title{
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.rgb-title {
+  font-size: 32px;
+  margin: 10px auto;
+  font-weight: 700;
+}
+
+.buttons {
+  background: black;
+}
+
+.difficulty{
+  float: right;
+}
+
+.square {
+  background-color: black;
+  /* padding-left: 30px; */
+  float: left;
+  width: 30%;
+  padding-bottom: 30%;
+  margin: 1.66%;
+  border-radius: 25px;
+}
+
+.boxes {
+  margin: 5px 30%;
+}
+
+.acvtive{
+
+}
